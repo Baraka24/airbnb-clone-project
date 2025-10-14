@@ -85,6 +85,20 @@ Each role is essential for delivering a high-quality, user-friendly product that
 | Listing Detailed View    | Shows detailed information about a selected property, including images and amenities.        | Image gallery, property details, booking button    |
 | Simple Checkout View     | Guides users through the booking process with clear steps and confirmation.                  | Booking summary, payment form, confirmation screen |
 
+## UI Component Patterns
+
+To ensure a modular and maintainable codebase, the project will be structured around reusable UI components. Below are the key components planned for the Airbnb Clone:
+
+- **Navbar:** Provides site-wide navigation, including links to main pages, user authentication actions, and responsive behavior for mobile devices.
+- **Property Card:** Displays essential information about a property, such as images, title, price, location, and a brief description. Designed for use in property listings and search results.
+- **Footer:** Contains site information, links to policies, contact details, and social media icons, ensuring consistent branding across all pages.
+- **Search Bar:** Allows users to input search criteria, including location, dates, and guest count, with autocomplete and validation features.
+- **Image Gallery:** Enables users to browse property images with carousel or modal functionality.
+- **Booking Form:** Collects user details and payment information during the checkout process, with clear validation and feedback.
+- **Filter Panel:** Lets users refine property searches by price, amenities, property type, and more.
+- **User Profile Menu:** Provides access to user account settings, bookings, and logout functionality.
+
+These components will be designed for reusability, accessibility, and visual consistency, forming the foundation of the platform’s user interface.
 ### Importance of User-Friendly Design
 
 A user-friendly design is crucial in a booking system to reduce friction, build trust, and ensure users can complete bookings efficiently. Clear navigation, accessible forms, and intuitive layouts help users find information quickly and complete transactions with confidence, directly impacting user satisfaction and platform success.
