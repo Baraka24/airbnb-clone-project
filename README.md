@@ -23,7 +23,51 @@ The UI/UX design for this project aims to deliver a seamless, intuitive, and vis
 - **Headings:** Circular, Bold (700), 24px-32px
 - **Secondary Text:** Circular, Book (400), 14px
 
-Identifying design properties in a mockup is essential because it ensures consistency and clarity throughout the development process. By specifying colors, typography, and other design elements, teams can accurately translate visual concepts into code, maintain brand identity, and create a cohesive user experience. Clear design specifications also streamline collaboration between designers and developers, reducing misunderstandings and rework.
+## Project Roles and Responsibilities
+
+Clearly defining roles and responsibilities helps ensure smooth collaboration and project success. Below are the primary roles for this project and their key contributions:
+
+### Project Manager
+- Oversees project planning, scheduling, and progress tracking.
+- Facilitates communication among team members and stakeholders.
+- Manages risks, resolves issues, and ensures timely delivery.
+
+### Product Owner
+- Defines product vision, goals, and priorities.
+- Maintains and prioritizes the product backlog.
+- Acts as the main point of contact for requirements and feedback.
+
+### Scrum Master
+- Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives).
+- Removes impediments and supports the team in following Agile practices.
+- Ensures continuous improvement and team productivity.
+
+### Frontend Developers
+- Implement user interfaces based on design specifications.
+- Ensure responsiveness, accessibility, and cross-browser compatibility.
+- Collaborate with designers and backend developers for seamless integration.
+
+### Backend Developers
+- Develop and maintain server-side logic, APIs, and databases.
+- Ensure security, scalability, and performance of backend systems.
+- Integrate third-party services and support frontend requirements.
+
+### Designers
+- Create UI/UX mockups, prototypes, and design assets.
+- Define visual styles, typography, and interaction patterns.
+- Ensure consistency and usability across the platform.
+
+### QA/Testers
+- Develop and execute test plans and cases.
+- Identify, document, and track bugs or issues.
+- Ensure the platform meets quality standards and requirements.
+
+### DevOps Engineers
+- Set up and maintain CI/CD pipelines and deployment processes.
+- Monitor infrastructure, automate operations, and ensure system reliability.
+- Manage cloud resources, backups, and security configurations.
+
+Each role is essential for delivering a high-quality, user-friendly product that meets business objectives and user needs.
 
 ### Key Features
 
